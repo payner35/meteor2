@@ -11,3 +11,5 @@ jquery
 stylus
 bootstrap-3
 underscore
+coffeescript
+iron-router
